@@ -34,6 +34,14 @@ Es importante que se tenga en cuenta que para encontrar la manera de navegar por
 
 ![Evidencia de rama alterna](../files/evidencia2.png)
 
+#### Merge a rama principal
+
+![Merge](../files/merge.png)
+
+#### Se elimina rama Actividad2
+
+![Delete branch](../files/EliminarRamaActividad2.png)
+
 #### Se crea un issue para dejar tareas pendientes y probar esta parte de la plataforma:
 
 ![Create issue](../files/issue.png)
