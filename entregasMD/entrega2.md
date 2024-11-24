@@ -22,7 +22,7 @@ El presente trabajo tiene como objetivo principal la publicación en GitHub de u
 
 ## Resultados
 
-#### Avidencia #1: Se crea el respectivo repositorio publico
+### Avidencia #1: Se crea el respectivo repositorio publico
 
 [GitHub](https://github.com/IbarraOrtizDev/Programacion-para-Analisis-de-Datos)
 
@@ -30,7 +30,10 @@ El presente trabajo tiene como objetivo principal la publicación en GitHub de u
 
 Es importante que se tenga en cuenta que para encontrar la manera de navegar por el repositorio es necesario leer el readme principal, en el se mencionan las entregas realizadas hasta el momento y las que se haran a futuro
 
-#### Evidencia #2: Se crea la rama Actividad2, con el objetivo de ir seccionando cada entrega por rama, anque seguramente en algun momento se eliminaran cuando se realice el pull request con la rama principal (master)
+### Evidencia #2: Se crea la rama Actividad2, con el objetivo de ir seccionando cada entrega por rama, anque seguramente en algun momento se eliminaran cuando se realice el pull request con la rama principal (master)
 
 ![Evidencia de rama alterna](../files/evidencia2.png)
 
+#### Se crea un issue para dejar tareas pendientes y probar esta parte de la plataforma:
+
+![Create issue](../files/issue.png)
