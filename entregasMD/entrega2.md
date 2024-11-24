@@ -1,5 +1,25 @@
-# S30 - Evidencia de aprendizaje 2. Optimizando la productividad en el mundo del software
+<div style="text-align:center">
+<img style="width:300px" src="https://www.iudigital.edu.co/images/11.-IU-DIGITAL.png"/>
+</div>
 
+<br/>
+
+<div style="text-align:center">
+ <h2>S30 - Evidencia de aprendizaje 2. Optimizando la productividad en el mundo del software</h2>
+</div>
+<br/>
+<div style="text-align:center">
+ <h3>Edwin Alexander Ibarra Ortiz</h3>
+ <h3>PREICA2402B020101</h3>
+</div>
+<br/>
+<br/>
+
+<div style="text-align:center">
+ <h3>IU Digital de Antioquia</h3>
+ <h3>Ingeniería de Software y Datos</h3>
+ <h3>2024</h3>
+</div>
 ## Introducción
 
 El presente trabajo tiene como objetivo principal la publicación en GitHub de una aplicación desarrollada en Jupyter Notebook utilizando Visual Studio Code. Este proceso incluye la creación de un repositorio, la gestión de ramas y la integración de cambios mediante un merge. Además, se documentarán los pasos realizados y las decisiones técnicas en un archivo Markdown, con el fin de garantizar la claridad y la replicabilidad del proyecto. Este ejercicio busca fortalecer habilidades relacionadas con el control de versiones, la colaboración en equipo y la documentación adecuada de proyectos de desarrollo.
