@@ -1,3 +1,5 @@
+# Tarea S25 - Evidencia de aprendizaje 1. Análisis y herramientas de extracción de datos
+
 ## Introducción
 
 En un mercado competitivo, una adecuada estrategia de precios es fundamental para captar y retener clientes. Este proyecto plantea el uso de técnicas de web scraping para obtener información en tiempo real sobre los precios de productos similares que ofrecen los competidores. A través de la recolección y análisis de datos de precios y características de productos en diversos sitios web, se busca optimizar la estrategia de precios de una compañía comercializadora al introducir nuevos artículos al mercado.
