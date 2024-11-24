@@ -72,6 +72,13 @@ Es importante que se tenga en cuenta que para encontrar la manera de navegar por
 
 ![Close issue #1](../files/closeIssue1.png)
 
+
+#### Si desea crear la instancia de docker
+``` bash
+docker build -t mi-jupyter-notebook .
+docker run -p 8888:8888 mi-jupyter-notebook
+```
+
 ## Conclusiones
 
 1. Gestión efectiva de proyectos con GitHub: El proceso de creación de un repositorio, el manejo de ramas, la integración de cambios mediante merge y la gestión de issues reflejó la importancia de GitHub como una herramienta esencial para organizar y colaborar en proyectos de desarrollo.
