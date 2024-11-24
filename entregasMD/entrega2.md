@@ -20,6 +20,8 @@
  <h3>Ingeniería de Software y Datos</h3>
  <h3>2024</h3>
 </div>
+<hr>
+
 ## Introducción
 
 El presente trabajo tiene como objetivo principal la publicación en GitHub de una aplicación desarrollada en Jupyter Notebook utilizando Visual Studio Code. Este proceso incluye la creación de un repositorio, la gestión de ramas y la integración de cambios mediante un merge. Además, se documentarán los pasos realizados y las decisiones técnicas en un archivo Markdown, con el fin de garantizar la claridad y la replicabilidad del proyecto. Este ejercicio busca fortalecer habilidades relacionadas con el control de versiones, la colaboración en equipo y la documentación adecuada de proyectos de desarrollo.
