@@ -106,7 +106,14 @@
             }
             $(".spinner-container").show()
             $(".spinner-container").css("display", "flex")
-            fetch("https://2328-143-198-143-30.ngrok-free.app/?ean="+ean)
+            const requestOptions = {
+                method: "GET",
+                redirect: "follow",
+                headers: {
+                    'ngrok-skip-browser-warning': 'true' 
+                }
+            };
+            fetch("https://2328-143-198-143-30.ngrok-free.app/?ean="+ean, requestOptions)
             //fetch("http://143.198.143.30:5000/?ean="+ean)
             //fetch("http://127.0.0.1:5000/?ean="+ean)
             .then((response) => response.json())
