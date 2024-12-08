@@ -3,3 +3,4 @@ selenium
 webdriver-manager
 gunicorn
 pandas
+flask-cors
