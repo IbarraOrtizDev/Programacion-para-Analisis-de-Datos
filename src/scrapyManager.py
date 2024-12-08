@@ -25,7 +25,12 @@ def upDefaultWebdriver():
     options = webdriver.ChromeOptions()
     options.add_argument('--ignore-certificate-errors')
     options.add_argument('--ignore-ssl-errors')
-    options.add_argument("--headless")
+    options.add_argument('--headless')  # Ejecutar en modo headless
+    options.add_argument('--no-sandbox')  # Deshabilitar el sandboxing
+    options.add_argument('--disable-dev-shm-usage')  # Deshabilitar el uso de /dev/shm
+    options.add_argument('--disable-gpu')  # Deshabilitar la GPU
+    options.add_argument('--remote-debugging-port=9222')  # Habilitar el puerto de depuración remota
+    
     service = Service(ChromeDriverManager().install())
     return webdriver.Chrome(service=service, options=options)
 
