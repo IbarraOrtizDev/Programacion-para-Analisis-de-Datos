@@ -106,7 +106,8 @@
             }
             $(".spinner-container").show()
             $(".spinner-container").css("display", "flex")
-            fetch("http://143.198.143.30:5000/?ean="+ean)
+            fetch("https://2328-143-198-143-30.ngrok-free.app/?ean="+ean)
+            //fetch("http://143.198.143.30:5000/?ean="+ean)
             //fetch("http://127.0.0.1:5000/?ean="+ean)
             .then((response) => response.json())
             .then((result) => renderTable(result))

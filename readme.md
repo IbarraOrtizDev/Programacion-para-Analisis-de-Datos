@@ -7,6 +7,7 @@
 <div style="text-align:center">
  <h2>Evidencia de aprendizaje 1. Análisis y herramientas de extracción de datos <a href="./entregasMD/entrega1.md">IR</a></h2>
  <h2>S30 - Evidencia de aprendizaje 2. Optimizando la productividad en el mundo del software <a href="./entregasMD/entrega2.md">IR</a></h2>
+ <h2>URL de pruebas para entrega 3. Optimización procesos de desarrollo <a href="https://ibarraortizdev.github.io/Programacion-para-Analisis-de-Datos/">IR</a></h2>
 </div>
 <br/>
 <div style="text-align:center">
